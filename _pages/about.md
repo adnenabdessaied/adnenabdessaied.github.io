@@ -13,9 +13,9 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Service
 ======

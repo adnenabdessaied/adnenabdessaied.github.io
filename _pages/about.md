@@ -28,7 +28,3 @@ Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-Service
-======
-* Reviewing: ARR'23, AC MM'23, Artificial Intelligence'23, CHI'24

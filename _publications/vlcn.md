@@ -1,5 +1,5 @@
 ---
-title: "Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for V}ideoQA"
+title: "Video Language Co-Attention with Multimodal Fast-Learning Feature Fusion for VideoQA"
 collection: publications
 permalink: /publication/vlcn
 excerpt: '**Adnen Abdessaied**, Ekta Sood, Andreas Bulling. [[Paper]](https://aclanthology.org/2022.repl4nlp-1.15/) [[Code]](https://github.com/adnenabdessaied/VLCN)'

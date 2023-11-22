@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc in Simulation Technology, University of Stuttgart, Germany, 2018
-* MSc in Simulation Technology, University of Stuttgart, Germany, 2021
+* MSc in Simulation Technology, University of Stuttgart, Germany, 2021 (**awarded with distinction**)
 * PhD in Computer Science, University of Stuttgart, Germany, 2025 (expected)
 
 Work experience

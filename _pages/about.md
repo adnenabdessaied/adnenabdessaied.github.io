@@ -13,13 +13,14 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 News
 ======
+* [20.02.2024] 🔥 One paper got accepted to COLING 2024, Turin, Italy 🇮🇹
 * [01.11.2023] Reviewing for ACL Rolling Review (October Cycle 2023)
-* [24.10.2023] 🔥 One paper got accepted at WACV 2024. Hawaii, USA
+* [24.10.2023] 🔥 One paper got accepted to WACV 2024, Hawaii, USA 🇺🇸
 * [29.09.2023] Reviewing for CHI 2024
 * [15.04.2023] Reviewing for ACM MM 2023
 * [02.02.2023] Reviewing for the Journal of Artificial Intelligence 2023
-* [16.08.2022] 🔥 One paper got accepted at COLING 2022 (**oral presentation**). Gyeongju, Republic of Korea
-* [27.03.2022] 🔥 One paper got accepted at the ACL 2022 Workshop Representation Learning for NLP (RepL4NLP). Dublin, Ireland
+* [16.08.2022] 🔥 One paper got accepted to COLING 2022 (**oral presentation**), Gyeongju, South Korea 🇰🇷
+* [27.03.2022] 🔥 One paper got accepted to the ACL 2022 Workshop Representation Learning for NLP (RepL4NLP). Dublin, Ireland 🇮🇪
 * [01.04.2021] 🥇 My master's thesis received the the outsanding work award from IC SimTech
 * [28.02.2021] 🎓 I defended my MSc Thesis **with distinction**
 

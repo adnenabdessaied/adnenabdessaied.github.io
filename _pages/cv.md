@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 02.2024 - present: Research Intern
+  * hessian.AI & TU Darmstadt, Germany
+  * Supervisors: [Prof. Dr. Marcus Rohrbach](https://scholar.google.ca/citations?user=3kDtybgAAAAJ&hl=en) and [Prof. Dr. Anna Rohrbach](https://scholar.google.ca/citations?hl=en&user=GHpxNQIAAAAJ)
+
 * 03.2021 - present: Research Assistant
   * University of Stuttgart, Germany
   * Conducting world-class research to be published at top-tier AI venues

@@ -14,7 +14,7 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 News
 ======
 * [20.02.2024] 🔥 One paper got accepted to COLING'24, Turin, Italy 🇮🇹
-* [01.11.2023] Reviewing for ACL Rolling Review (October Cycle 2023)
+* [01.11.2023] Reviewing for ACL Rolling Review 2023-2024
 * [24.10.2023] 🔥 One paper got accepted to WACV'24, Hawaii, USA 🇺🇸
 * [29.09.2023] Reviewing for CHI 2024
 * [15.04.2023] Reviewing for ACM MM 2023

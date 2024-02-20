@@ -14,6 +14,7 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 News
 ======
 * [20.02.2024] 🔥 One paper got accepted to COLING'24, Turin, Italy 🇮🇹
+* [01.02.2024] 🆕 Started an internship at the Multimodal AI lab, TU Darmstast with Marcus and Anna Rohrbach
 * [01.11.2023] 📜 Reviewing for ACL Rolling Review'23-24
 * [24.10.2023] 🔥 One paper got accepted to WACV'24, Hawaii, USA 🇺🇸
 * [29.09.2023] 📜 Reviewing for CHI'24

@@ -20,7 +20,7 @@ News
 * [15.04.2023] Reviewing for ACM MM 2023
 * [02.02.2023] Reviewing for the Journal of Artificial Intelligence 2023
 * [16.08.2022] 🔥 One paper got accepted to COLING 2022 (**oral presentation**), Gyeongju, South Korea 🇰🇷
-* [27.03.2022] 🔥 One paper got accepted to the ACL 2022 Workshop Representation Learning for NLP (RepL4NLP). Dublin, Ireland 🇮🇪
+* [27.03.2022] 🔥 One paper got accepted to the ACL 2022 Workshop RepL4NLP, Dublin, Ireland 🇮🇪
 * [01.04.2021] 🥇 My master's thesis received the the outsanding work award from IC SimTech
 * [28.02.2021] 🎓 I defended my MSc Thesis **with distinction**
 

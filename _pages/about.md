@@ -13,6 +13,7 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 News
 ======
+* [16.05.2024] 🔥 One paper got accepted to ACL'24, Bangkok, Thailand 🇹🇭
 * [20.02.2024] 🔥 One paper got accepted to COLING'24, Turin, Italy 🇮🇹
 * [01.02.2024] 🆕 Started an internship at the Multimodal AI lab, TU Darmstadt with [Marcus Rohrbach](https://scholar.google.ca/citations?user=3kDtybgAAAAJ&hl=en) and [Anna Rohrbach](https://scholar.google.ca/citations?hl=en&user=GHpxNQIAAAAJ)
 * [01.11.2023] 📜 Reviewing for ACL Rolling Review'23-24

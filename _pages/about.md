@@ -26,9 +26,3 @@ News
 * [27.03.2022] 🔥 One paper got accepted to **ACL-RepL4NLP'22**, Dublin, Ireland 🇮🇪
 * [01.04.2021] 🏆 My master's thesis received the the outsanding work award from IC SimTech
 * [28.02.2021] 🎓 I defended my MSc Thesis **with distinction**
-
-Publications
-======
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

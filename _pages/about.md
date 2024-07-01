@@ -13,17 +13,17 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 News
 ======
-* [01.07.2024] 🔥 One paper got accepted to **ECCV'24**, Milano, Italy 🇮🇹
+* [01.07.2024] 🔥 Paper accepted at **ECCV'24**, Milano, Italy 🇮🇹
 * [15.06.2024] 📜 Reviewing for CoNLL'24
-* [16.05.2024] 🔥 One paper got accepted to **ACL'24**, Bangkok, Thailand 🇹🇭
-* [20.02.2024] 🔥 One paper got accepted to **COLING'24**, Turin, Italy 🇮🇹
+* [16.05.2024] 🔥 Paper accepted at **ACL'24**, Bangkok, Thailand 🇹🇭
+* [20.02.2024] 🔥 Paper accepted at **COLING'24**, Turin, Italy 🇮🇹
 * [01.02.2024] 🧑‍💻 Started an internship at the Multimodal AI lab, TU Darmstadt with [Marcus Rohrbach](https://scholar.google.ca/citations?user=3kDtybgAAAAJ&hl=en) and [Anna Rohrbach](https://scholar.google.ca/citations?hl=en&user=GHpxNQIAAAAJ)
 * [01.11.2023] 📜 Reviewing for ACL Rolling Review'23-24
-* [24.10.2023] 🔥 One paper got accepted to **WACV'24**, Hawaii, USA 🇺🇸
+* [24.10.2023] 🔥 Paper accepted at **WACV'24**, Hawaii, USA 🇺🇸
 * [29.09.2023] 📜 Reviewing for CHI'24
 * [15.04.2023] 📜 Reviewing for ACM MM'23
 * [02.02.2023] 📜 Reviewing for the Journal of Artificial Intelligence'23
-* [16.08.2022] 🔥 One paper got accepted to **COLING'22 [oral 📣]**, Gyeongju, Korea 🇰🇷
-* [27.03.2022] 🔥 One paper got accepted to **ACL-RepL4NLP'22**, Dublin, Ireland 🇮🇪
+* [16.08.2022] 🔥 Paper accepted at **COLING'22 [oral 📣]**, Gyeongju, Korea 🇰🇷
+* [27.03.2022] 🔥 Paper accepted at **ACL-RepL4NLP'22**, Dublin, Ireland 🇮🇪
 * [01.04.2021] 🏆 My master's thesis received the the outsanding work award from IC SimTech
 * [28.02.2021] 🎓 I defended my MSc Thesis **with distinction**

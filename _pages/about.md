@@ -13,6 +13,7 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 News
 ======
+* [04.11.2024] 📜 Reviewing for CVPR'25
 * [01.07.2024] 🔥 Paper accepted at **ECCV'24**, Milano, Italy 🇮🇹
 * [15.06.2024] 📜 Reviewing for CoNLL'24
 * [16.05.2024] 🔥 Paper accepted at **ACL'24**, Bangkok, Thailand 🇹🇭

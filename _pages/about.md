@@ -13,6 +13,7 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 News
 ======
+* [18.11.2024] 📜 Reviewing for IEEE Transactions on Image Processing
 * [04.11.2024] 📜 Reviewing for CVPR'25
 * [01.07.2024] 🔥 Paper accepted at **ECCV'24**, Milano, Italy 🇮🇹
 * [15.06.2024] 📜 Reviewing for CoNLL'24
@@ -23,7 +24,7 @@ News
 * [24.10.2023] 🔥 Paper accepted at **WACV'24**, Hawaii, USA 🇺🇸
 * [29.09.2023] 📜 Reviewing for CHI'24
 * [15.04.2023] 📜 Reviewing for ACM MM'23
-* [02.02.2023] 📜 Reviewing for the Journal of Artificial Intelligence'23
+* [02.02.2023] 📜 Reviewing for the Journal of Artificial Intelligence
 * [16.08.2022] 🔥 Paper accepted at **COLING'22 [oral 📣]**, Gyeongju, Korea 🇰🇷
 * [27.03.2022] 🔥 Paper accepted at **ACL-RepL4NLP'22**, Dublin, Ireland 🇮🇪
 * [01.04.2021] 🏆 My master's thesis received the the outsanding work award from IC SimTech

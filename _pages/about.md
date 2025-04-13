@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD Student the University of Stuttgart, Germany. My research focuses broadly on multi-modal deep models at the intersection of computer vision and natural language processing. Specifically, I develop novel AI models especially geared towards conversational tasks such as visual and video dialog.
+I am an AI Researcher at Aleph Alpha Research. 
+Before that, I did a PhD at the University of Stuttgart, Germany, where I broadly focused on multi-modal deep models at the intersection of computer vision and natural language processing. Specifically, I developed novel AI models especially geared towards conversational tasks such as visual and video dialog.
 I hold a BSc and a MSc degrees in the elite study program Simulation Technology at the University of Stuttgart. The latter was **awarded with distinction** and received the [outstanding work award](https://www.simtech.uni-stuttgart.de/press/IC-SimTech-honors-outstanding-theses-00001/) from the Industrial Consortium SimTech (IC SimTech).
 
 News
 ======
+* [01.04.2025] ❗ Joined Aleph Alpha Research as an AI Researcher
 * [26.02.2025] 🔥 Paper accepted at **CVPR'25**, Nashville, USA 🇺🇸
 * [16.02.2025] 📜 Reviewing for ICCV'25
 * [18.11.2024] 📜 Reviewing for IEEE Transactions on Image Processing

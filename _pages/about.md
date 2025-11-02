@@ -14,7 +14,7 @@ I hold a BSc and a MSc degrees in the elite study program Simulation Technology 
 
 News
 ======
-* [01.11.2025] 🌲 Joined Black Forest Labs as a Member of Technical Staff (VLM Researcher)
+* [01.11.2025] 🌲 Joined Black Forest Labs as a Member of Technical Staff - VLM Researcher
 * [29.04.2025] 🎓 Defended my PhD Thesis **with highest distinction (summa cum laude)**
 * [28.04.2025] ✈️ Received a travel award from CVPR'25
 * [01.04.2025] ❗ Joined Aleph Alpha Research as an AI Researcher

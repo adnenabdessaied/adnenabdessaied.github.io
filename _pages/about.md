@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Member of Techncial Staff at [Black Forest Labs](https://bfl.ai/) 🌲 conducting research on VLMs and multimodal LLMs. Before that I was an AI Researcher at [Aleph Alpha Research](https://aleph-alpha.com/) where I worked on byte-level foundational models. 
+I am a Member of Techncial Staff at [Black Forest Labs](https://bfl.ai/) 🌲 conducting frontier VLM research. Before that I was an AI Researcher at [Aleph Alpha Research](https://aleph-alpha.com/) where I worked on byte-level foundational models. 
 I did a PhD at the University of Stuttgart, Germany, under the supervision of [Andreas Bulling](https://scholar.google.de/citations?hl=de&user=QURZIzUAAAAJ&view_op=list_works&sortby=pubdate), where I broadly focused on multi-modal deep models at the intersection of computer vision and natural language processing. Specifically, I developed novel AI models especially geared towards conversational tasks such as visual and video dialog.
 I hold a BSc and a MSc degrees in the elite study program Simulation Technology at the University of Stuttgart. The latter was **awarded with distinction** and received the [outstanding work award](https://www.simtech.uni-stuttgart.de/press/IC-SimTech-honors-outstanding-theses-00001/) from the Industrial Consortium SimTech (IC SimTech).
 
